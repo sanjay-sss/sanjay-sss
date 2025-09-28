@@ -4,7 +4,9 @@
 
 > **Crafting Intelligent AI Solutions with Quantifiable Business Impact**
 
-I'm an AI Engineer at SPAN Technology with 1.5+ years of experience specializing in **MCP protocols**, **AI Copilots**, and **enterprise-grade RAG systems**. I focus on building scalable AI solutions that deliver measurable results - improving system scalability by **40%**, reducing errors by **35%**, and processing **10,000+ documents** with **95% accuracy**.
+AI Engineer with 1.5+ years of experience in Machine Learning, Deep Learning, and Large Language Models. Proven expertise in deploying Generative AI applications, custom MCP servers, and
+RAG systems. Skilled in model deployment, fine-tuning, and cloud-based AI solutions with quantifiable
+business impact.
 
 ---
 
