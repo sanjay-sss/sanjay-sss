@@ -1,22 +1,23 @@
 # Hi there, I'm Sanjay S 👋
 
-## AI Engineer | Machine Learning Engineer | Generative AI Specialist
+## AI Engineer | Generative AI & LLM Systems Specialist
 
-> **Crafting Intelligent AI Solutions with Quantifiable Business Impact**
+> **Building LLM-integrated systems with real production impact**
 
-AI Engineer with 1.5+ years of experience in Machine Learning, Deep Learning, and Large Language Models. Proven expertise in deploying Generative AI applications, custom MCP servers, and
-RAG systems. Skilled in model deployment, fine-tuning, and cloud-based AI solutions with quantifiable
-business impact.
+AI Engineer with 2.5+ years of experience building Generative AI and LLM-integrated
+systems — specializing in Retrieval-Augmented Generation (RAG), Model Context Protocol
+(MCP) server/client architectures, and multi-agent workflows. Experienced deploying
+production AI systems on AWS with Docker, Jenkins CI/CD, and Langfuse-based observability.
 
 ---
 
 ## 🚀 What I Do
 
-- **Custom MCP Development**: Build Model Context Protocol servers and clients for enhanced AI communication
-- **AI Copilots**: Create intelligent assistants with NLP and RAG architecture 
-- **Document Intelligence**: Architect pipelines for automated data extraction and processing
-- **Model Deployment**: Implement scalable solutions using Docker containers and AWS Lambda
-- **Enterprise RAG Systems**: Design and deploy retrieval-augmented generation platforms
+- **Custom MCP Development**: Build multi-transport, multi-client MCP servers (SSE + MCP protocol) for AI tool integration
+- **AI Copilots**: Build RAG-based conversational and agentic assistants
+- **Document Intelligence**: Design multi-model extraction pipelines combining traditional OCR and LLMs
+- **Model Deployment**: Ship containerized AI services with Docker, Jenkins CI/CD, and AWS
+- **Enterprise RAG Systems**: Design and deploy retrieval-augmented generation platforms with observability built in
 
 ---
 
@@ -24,28 +25,25 @@ business impact.
 
 ### **GenAI & LLMs**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20Protocols-4ECDC4?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Protocol-4ECDC4?style=flat&logoColor=white)
 
-### **Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+### **Vector Search & Observability**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(pgvector)-336791?style=flat&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Textract](https://img.shields.io/badge/AWS%20Textract-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-
-### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-9146FF?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=flat&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins%20(CI%2FCD)-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### **Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -57,90 +55,61 @@ business impact.
 
 ## 🏆 Featured Projects
 
-### 🤖 [QueryInsight](https://github.com/sanjay-sss/sql-agent-llm-visualizer)
-**AI-Powered Natural Language to SQL System**
-- Converts natural language to optimized SQL queries
-- Automated data visualization with interactive charts
-- Built with LLM integration and web interface
-- **Tech**: LLM Integration, PostgreSQL, Data Visualization
-
 ### 📚 [RAGStack](https://github.com/sanjay-sss/rag-assistant)
 **Enterprise RAG Q&A System**
-- Scalable document-based Q&A with vector search
-- Advanced embedding generation and conversational memory
-- Multi-document support for enterprise deployment
-- **Tech**: RAG Architecture, Vector Search, Document Processing
+- Document-based Q&A with vector search and conversational memory
+- **Tech**: LangChain, OpenAI, PostgreSQL (pgvector), Langfuse observability
+
+### 🤖 [QueryInsight](https://github.com/sanjay-sss/sql-agent-llm-visualizer)
+**AI-Powered Natural Language to SQL System**
+- Converts natural language to SQL queries with automated data visualization
+- **Tech**: LangChain, OpenAI, PostgreSQL
 
 ### 🌐 [AI-Powered Web Monitor](https://github.com/sanjay-sss/web-change-monitor)
 **Smart Content Change Detection & Summarization**
-- Detects website changes using SHA256 hashing
-- AI-powered change summarization and alerts
-- Real-time monitoring with database integration
-- **Tech**: Change Detection, AI Summarization, Web Scraping
-
-### 🎯 [Speech Emotion Recognition](https://github.com/sanjay-sss/Speech-emotion-recognition-cnn)
-**Deep Learning Audio Classifier**
-- CNN model with **85% accuracy** on 10,000+ samples
-- Real-time emotion detection from speech
-- Applications in customer service and analytics
-- **Tech**: Deep Learning, CNN, Audio Processing
+- Detects website changes via SHA256 hashing with LLM-generated change summaries
+- **Tech**: Change Detection, LLM Summarization, Web Scraping
 
 ---
 
 ## 💼 Professional Experience
 
-**🏢 AI Engineer @ SPAN Technology** *(Dec 2023 - Present)*
-- Developed custom **MCP servers** improving scalability by **40%**
-- Created **AI Copilots** reducing filing errors by **35%**
-- Built document intelligence pipelines processing **10,000+ documents**
-- Implemented production **model deployment** with Docker and AWS
+**🏢 AI Engineer @ SPAN Technology** *(Jun 2024 – Present)*
+- Built a multi-transport MCP server (SSE + MCP protocol) supporting multiple clients (Claude, ChatGPT, Cursor, Cline), architected for extensibility with improved concurrent request handling and reduced latency
+- Built a RAG-based AI copilot using OpenAI (conversational chat) and Anthropic Claude (agentic workflows); migrated retrieval from Pinecone to PostgreSQL + pgvector with Langfuse observability, reducing filing errors by **35%**
+- Designed and operate an ongoing document-intelligence pipeline using a multi-model extraction approach — AWS Textract (structured OCR) + Google Gemini (complex/unstructured extraction) — handling **10,000+ documents**
+- Built LangChain/LangGraph agents with retry and error-handling logic, containerized with Docker and deployed via Jenkins CI/CD on AWS (S3, CloudWatch, Bedrock)
 
-**📈 Data Scientist Intern @ NEEWEE Analytics** *(Jul 2022 - Dec 2022)*
-- ML analysis on manufacturing data achieving **15% efficiency improvement**
-- Developed recommendation systems for process optimization
-- Contributed to **20% productivity increase** through data-driven solutions
+**🏢 AI Engineer Intern @ SPAN Technology** *(Dec 2023 – Jun 2024)*
+- Built the initial RAG-based AI system on serverless AWS infrastructure — Bedrock for LLM inference, Lambda for compute, Pinecone for vector search, DynamoDB for data storage, S3 for document storage, and API Gateway to expose the service
+
+**📈 Data Scientist Intern @ NEEWEE Analytics** *(Jul 2022 – Dec 2022)*
+- Built and evaluated gradient boosting models on manufacturing data, improving production efficiency by **15%**
+- Developed a recommendation system for operational parameter tuning
 
 ---
 
 ## 🎯 Key Achievements
 
-- **40%** improvement in system scalability through MCP implementation
-- **35%** reduction in filing errors with AI Copilots
-- **10,000+** documents processed with **95% accuracy**
-- **15%** manufacturing efficiency improvement through ML analysis
-- **85%** accuracy in speech emotion recognition models
-
----
-
-## 🌟 Skills Proficiency
-
-```text
-MCP Protocols          ████████████████████ 95%
-LangChain & LangGraph  ████████████████████ 95%
-Python & SQL           ████████████████████ 95%
-AI Agents & RAG        ████████████████████ 90%
-AWS Cloud Services     ████████████████████ 90%
-PyTorch & TensorFlow   █████████████████    85%
-Docker Deployment      █████████████████    85%
-Vector Databases       █████████████████    85%
-```
+- Reduced filing errors by **35%** through a RAG-based AI copilot with observability built in
+- Processed **10,000+ documents** through an ongoing multi-model document-intelligence pipeline
+- Improved manufacturing efficiency by **15%** through applied ML analysis
 
 ---
 
 ## 📚 Latest Learning
 
 Currently exploring:
-- **Advanced RAG Architectures** for enterprise applications
-- **Multi-agent AI Systems** with LangGraph
-- **MLOps Best Practices** for production deployment
-- **Vector Database Optimization** for large-scale applications
+- **Advanced RAG evaluation** (RAGAS/LangSmith-style frameworks)
+- **Multi-agent AI systems** with LangGraph
+- **CI/CD and MLOps practices** for production AI deployment
 
 ---
 
 ## 🏅 Certifications
 
-- **Generative AI with LangChain and Hugging Face** - Coursera (2025)
-- **Python for Data Science** - Internshala (2023)
+- **Generative AI with LangChain and Hugging Face** — Coursera (2025)
+- **Python for Data Science** — Internshala (2023)
 
 ---
 
@@ -159,6 +128,6 @@ Currently exploring:
 
 <div align="center">
 
-### 💡 "Building the future of AI with measurable impact"
+### 💡 Building LLM-integrated systems with measurable, verifiable impact
 
 </div>
